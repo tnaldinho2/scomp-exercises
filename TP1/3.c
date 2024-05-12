@@ -3,8 +3,8 @@
 #include <unistd.h>
 
 /*
-a) X processes 
-b) 
+a) 2^4 processes 
+b) 16 times, as all processes go through the printf
 */
 
 
